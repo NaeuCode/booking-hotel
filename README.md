@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hotel Booking App
 
 This is a hotel booking web application built with React.js and styled with Tailwind CSS.
@@ -34,7 +34,3 @@ Once the development server is running, you can access the application in your w
 ## Screenshots
 
 ![Screenshot](Booking%20Hotel%20App.jpg) 
-=======
-#Booking Hotel App 
-its booking hotel app 
->>>>>>> 5fff7ee39f916b828365e278c5df08915be711a5
